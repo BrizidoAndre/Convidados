@@ -1,0 +1,8 @@
+julia
+enzo
+andre
+henrique
+gabriel
+joao
+maria
+priscila
